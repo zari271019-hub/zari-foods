@@ -27,7 +27,7 @@ export default function Contact() {
 
   const handleWhatsApp = () => {
     const message = encodeURIComponent('Hi QuickBite! I would like to place an order.');
-    window.open(`https://wa.me/923001234567?text=${message}`, '_blank', 'noopener,noreferrer');
+    window.open(`https://wa.me/923244088859?text=${message}`, '_blank', 'noopener,noreferrer');
   };
 
   return (
